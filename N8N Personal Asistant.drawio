@@ -27,14 +27,6 @@
         <mxCell id="J_RyUydGFugAgPV09VgC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_RyUydGFugAgPV09VgC-3" target="J_RyUydGFugAgPV09VgC-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J_RyUydGFugAgPV09VgC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_RyUydGFugAgPV09VgC-3" target="J_RyUydGFugAgPV09VgC-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="100" />
-              <mxPoint x="590" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-3" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -71,14 +63,6 @@
         <mxCell id="J_RyUydGFugAgPV09VgC-20" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J_RyUydGFugAgPV09VgC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_RyUydGFugAgPV09VgC-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J_RyUydGFugAgPV09VgC-23" value="Correction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-28" value="Calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="130" width="120" height="20" as="geometry" />
         </mxCell>
@@ -110,6 +94,18 @@
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-38" value="Cleareance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-41" value="Planing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-42" value="Decision Maker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-43" value="Identify Tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-44" value="Execution Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
