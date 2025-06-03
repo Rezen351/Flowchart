@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="C7-MtyAV4K4ghMJdElfd">
-    <mxGraphModel dx="469" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,22 +220,25 @@
         <mxCell id="J_RyUydGFugAgPV09VgC-92" value="NLP + Information Extractor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545.39" y="642.5" width="124.61" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_RyUydGFugAgPV09VgC-99" target="J_RyUydGFugAgPV09VgC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-99" value="Field" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="730" width="140" height="150" as="geometry">
+          <mxGeometry x="475" y="790" width="150" height="150" as="geometry">
             <mxRectangle x="-25" y="120" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-100" value="message id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-102" value="chat id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-101" value="comand" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-103" value="carrier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
+          <mxGeometry y="120" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
