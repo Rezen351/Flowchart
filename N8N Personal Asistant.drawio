@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="C7-MtyAV4K4ghMJdElfd">
-    <mxGraphModel dx="586" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,13 @@
           <mxGeometry x="450.78" y="457.45" width="69.22" height="22.55" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-88" value="Menangani Nilai yang Hilang (Missing Values)&lt;div&gt;&lt;div&gt;Memperbaiki Tipe Data&lt;/div&gt;&lt;div&gt;Menghapus Duplikat&lt;/div&gt;&lt;div&gt;Memfilter Data yang Tidak Relevan&lt;/div&gt;&lt;div&gt;&lt;div&gt;Mengoreksi Kesalahan Ejaan atau Inkonsistensi (lebih lanjut ke normalisasi)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Standardisasi Format&lt;/div&gt;&lt;div&gt;Mengganti Nilai untuk Konsistensi Kategori&lt;/div&gt;&lt;div&gt;Menggunakan Regex untuk Ekstraksi atau Penggantian Pola&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="760" y="432.5" width="260" height="170" as="geometry" />
+          <mxGeometry x="660" y="432.5" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-91" value="NLP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="572.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-92" value="NLP + Information Extractor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455.39" y="642.5" width="124.61" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
