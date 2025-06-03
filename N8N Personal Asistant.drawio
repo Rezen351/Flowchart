@@ -163,10 +163,22 @@
           <mxGeometry x="70" y="430" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-66" value="Pre Processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="390" width="260" height="20" as="geometry" />
+          <mxGeometry x="280" y="390" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="260" height="240" as="geometry" />
+          <mxGeometry x="280" y="410" width="360" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-69" value="Transcription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="425" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-70" value="Cleaning &amp;amp; Normalitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-71" value="Intent Recognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-72" value="Entity Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="140" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
