@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="C7-MtyAV4K4ghMJdElfd">
-    <mxGraphModel dx="2009" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="469" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,30 @@
           <mxGeometry x="370" y="410" width="360" height="300" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="390" width="90" height="200" as="geometry" />
+          <mxGeometry x="120" y="390" width="115" height="250" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-62" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-65">
           <mxGeometry width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-65">
           <mxGeometry y="20" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-93" value="Field" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-65">
+          <mxGeometry x="-25" y="120" width="140" height="120" as="geometry">
+            <mxRectangle x="-25" y="120" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-94" value="Message id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-93">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-95" value="Message" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-93">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-96" value="chat id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-93">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png;" vertex="1" parent="J_RyUydGFugAgPV09VgC-65">
+          <mxGeometry x="20" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_RyUydGFugAgPV09VgC-1" target="J_RyUydGFugAgPV09VgC-2">
           <mxGeometry relative="1" as="geometry" />
@@ -144,9 +161,6 @@
         <mxCell id="J_RyUydGFugAgPV09VgC-58" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J_RyUydGFugAgPV09VgC-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="160" y="430" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-66" value="Pre Processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="390" width="360" height="20" as="geometry" />
         </mxCell>
@@ -205,6 +219,23 @@
         </mxCell>
         <mxCell id="J_RyUydGFugAgPV09VgC-92" value="NLP + Information Extractor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545.39" y="642.5" width="124.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-99" value="Field" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="730" width="140" height="150" as="geometry">
+            <mxRectangle x="-25" y="120" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-100" value="message id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-102" value="chat id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-101" value="comand" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_RyUydGFugAgPV09VgC-103" value="carrier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J_RyUydGFugAgPV09VgC-99">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
