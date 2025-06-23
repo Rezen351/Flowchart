@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="foGVCl79F2yRB9UQx-JF">
-    <mxGraphModel dx="1665" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xYd3KV0NQR5K7sVaA8Ax-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-80" width="810" height="880" as="geometry" />
+        </mxCell>
         <mxCell id="xYd3KV0NQR5K7sVaA8Ax-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xYd3KV0NQR5K7sVaA8Ax-2" target="xYd3KV0NQR5K7sVaA8Ax-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -172,6 +175,9 @@
         </mxCell>
         <mxCell id="xYd3KV0NQR5K7sVaA8Ax-17" value="Modul Lokal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYd3KV0NQR5K7sVaA8Ax-76" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;ARSITEKTUR SISTEM&lt;/b&gt;&lt;/u&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-80" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
